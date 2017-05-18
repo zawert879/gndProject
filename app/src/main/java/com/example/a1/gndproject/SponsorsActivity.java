@@ -7,7 +7,7 @@ import android.webkit.WebView;
 
 public class SponsorsActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
     private SwipeRefreshLayout mSwipeRefreshLayout;
-    private String URL = "https://m.vk.com/";
+    private String URL = "https://www.yandex.ru/m/";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
