@@ -1,4 +1,4 @@
-package com.example.a1.gndproject;
+package com.example.dickdick.myapplication;
 
 import org.junit.Test;
 

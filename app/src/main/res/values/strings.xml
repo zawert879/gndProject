@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">gndProject</string>
+
+    <string name="app_name">My Application</string>
+    <string name="drawer_item_spikers">Спикеры</string>
+    <string name="drawer_item_schedule">Расписание</string>
+    <string name="drawer_item_sponsors">Спонсоры</string>
+    <string name="drawer_item_share">share</string>
+
 </resources>
